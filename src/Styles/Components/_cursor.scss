@@ -1,0 +1,12 @@
+.cursor {
+    z-index: 1000;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: #FFF8F2;
+    overflow: hidden;
+    position: fixed;
+    mix-blend-mode: exclusion;
+    left: -10px;
+    top: -10px;
+}
